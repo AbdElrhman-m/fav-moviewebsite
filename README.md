@@ -7,7 +7,9 @@
 ##  how it works
   in entertainment_center.py using media.Movie that have uses the code in fresh_tomatoes.py 
   gentate a movie trailar website. 
-  ### inputs of media.Movie( move_name,
-                            movie_description,
-                            image_url,
-                            trailar_url
+  ### inputs of media.Movie
+            1- move_name
+            2- movie_description
+            3- image_url
+            4- trailar_url
+ 
