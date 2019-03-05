@@ -1,5 +1,8 @@
-# fav-moviewebsite
-  making a movie website generater with python using OOP
+# fav-moviewebsite 
+  Making a movie website generater with python using OOP.
+    To see the example result [go here](https://superbidofavouritemovie.netlify.com/).
+    To take a look on [youtube](https://youtu.be/7o9_IpI70_M).
+  
 ## instulations 
    python 2
 ##  Status
